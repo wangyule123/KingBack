@@ -10,3 +10,33 @@
 
 
 分别为test（原图）、Gray1、RGB1、RGB2（HSV）
+
+
+2.图像增强，采用了七种增强算法，后续会修改，选主流
+
+
+
+
+![image](https://user-images.githubusercontent.com/115970071/226175992-a5db41ae-0f90-4bcc-826a-cb255eaed8b2.png)
+
+
+
+
+分别为：   # 直方图均衡增强        # 拉普拉斯算法增强     # LoG对象算法增强     # 伽马变换
+
+ 
+    # CLAHE         # retinex_ssr         # retinex_msr         # test（原图）
+    
+    
+    
+3.灰度化变换，采用了主流的三种算法
+
+
+
+
+
+
+
+
+
+分别为：#最大值法               #均值法                   #加权均值法
