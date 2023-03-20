@@ -1,7 +1,11 @@
 # KingBack-picture
+
  图像识别可视化通用平台 General platform for image recognition visualization
+ 
 主要代码识别过程如下：
+
 预处理：1.图片变换、2.图像增强、3.灰度化变换、4.降噪
+
 效果图如下：
 
 
