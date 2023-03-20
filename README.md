@@ -41,3 +41,16 @@
 
 
 分别为：#最大值法               #均值法                   #加权均值法
+
+
+4.![image](https://user-images.githubusercontent.com/115970071/226318387-b4d9f6bf-e2c2-4346-a2f1-fed51afa6e35.png)
+
+
+在降噪中我们选择采用中值滤波和高斯滤波算法，具体特点如上，效果图如下：
+
+
+
+
+![image](https://user-images.githubusercontent.com/115970071/226318586-6d16343b-cde4-4557-96fe-e51594023e99.png)
+
+
